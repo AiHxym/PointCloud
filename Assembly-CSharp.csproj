@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\KNNSearch.cs" />
     <Compile Include="Assets\Scripts\DisplayPointCloudByGpu.cs" />
     <None Include="Assets\Custom\VertexColor.shader" />
     <Reference Include="UnityEditor.StandardEvents">
